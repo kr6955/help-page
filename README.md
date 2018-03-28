@@ -1,4 +1,5 @@
-## Welcome to My Help Pages
+
+### Welcome to My Help Pages
 
 You can use the [Try it](https://github.com/kr6955/help-page/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -7,6 +8,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Limitations
+
+## Cool down
+-Bullet
 
 ```markdown
 Syntax highlighted code block
